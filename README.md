@@ -2,7 +2,9 @@
 
 A Repository of links for Blockchain.
 
-1) <a href="blockchain-the-next-innovation-to-make-our-cities-smarter">Blockchain-the-next-innovation-to-make-our-cities-smarter </a>(PDF Document).
+1) <a href="https://www.pwc.in/assets/pdfs/publications/2018/blockchain-the-next-innovation-to-make-our-cities-smarter.pdf">Blockchain-the-next-innovation-to-make-our-cities-smarter </a>(PDF Document).
+
+2) <a href ="https://davidederosa.com/basic-blockchain-programming/" > basic-blockchain-programming </a> (Website)
 
 
 # Consensus Algorithms
