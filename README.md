@@ -8,4 +8,4 @@ A Repository of links for Blockchain.
 
 
 # Consensus Algorithms
-1) <a href="https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f"">ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms </a> (Medium Article)
+1) <a href="https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f">ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms </a> (Medium Article)
